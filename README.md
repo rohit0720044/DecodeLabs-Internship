@@ -7,7 +7,7 @@ This project is a local web app for viewing two Excel assignments in a professio
 - `DecodeLabs Assignment 1.xlsx`
 - `DecodeLabs Assignment 2.xlsx`
 
-The app reads these files from your Desktop.
+The app reads these files from the project folder. If they are not found there, it also checks your Desktop as a fallback.
 
 ## How To Run
 
